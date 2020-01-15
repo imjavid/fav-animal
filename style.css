@@ -1,0 +1,58 @@
+
+.body {
+    
+    background-color: darkgrey
+
+}
+
+
+
+
+
+
+
+h1{
+     
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: bold;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+.AnimalPicture {
+
+    width: 40%;
+    height: 40%;
+    display: block
+
+    
+
+    
+                
+    
+
+
+}
+
+
+
+
+
+.AnimalDescription {
+
+    position: fixed;
+    width: 60%;
+    background-color: gray;
+    color: white;
+
+
+
+}
